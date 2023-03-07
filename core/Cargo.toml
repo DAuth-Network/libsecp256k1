@@ -14,5 +14,5 @@ crunchy = "0.2"
 digest = "0.9"
 
 [features]
-default = ["std"]
+default = []
 std = ["subtle/std"]
